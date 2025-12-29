@@ -2,3 +2,6 @@
 
 # about me 
 sameer alam
+
+#skill
+c++
